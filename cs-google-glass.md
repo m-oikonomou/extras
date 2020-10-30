@@ -16,6 +16,6 @@
 
 
 **Βιβλιογραφία**
->[1] https://sites.google.com/site/313aspire313/history-of-google-glass <br>
->[2] https://www.wareable.com/features/the-patented-history-and-future-of-google-glass-656 <br>
->[3] Sawyer Ben D.,  Finomore Victor S., Calvo Andres A., Hancock P. A. (Vol. 56, No. 7, November 2014, pp. 1307 –1321). Google Glass: A Driver Distraction Cause or Cure? Human Factors and Ergonomics Society. DOI: 10.1177/0018720814555723
+>[1] [https://sites.google.com/site/313aspire313/history-of-google-glass](https://sites.google.com/site/313aspire313/history-of-google-glass) <br>
+>[2] [https://www.wareable.com/features/the-patented-history-and-future-of-google-glass-656](https://www.wareable.com/features/the-patented-history-and-future-of-google-glass-656) <br>
+>[3] Sawyer Ben D.,  Finomore Victor S., Calvo Andres A., Hancock P. A. (Vol. 56, No. 7, November 2014, pp. 1307 –1321). Google Glass: A Driver Distraction Cause or Cure? Human Factors and Ergonomics Society. DOI: 10.1177/0018720814555723 [](https://www.researchgate.net/profile/Ben_Sawyer/publication/269415192_Google_Glass_A_Driver_Distraction_Cause_or_Cure/links/55a6e85708ae51639c575bb9/Google-Glass-A-Driver-Distraction-Cause-or-Cure.pdf)
